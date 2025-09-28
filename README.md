@@ -7,3 +7,4 @@ Developing Virtual Try On Network
 
 ## Ideas
 1. https://www.kaggle.com/code/mohitgupta12/idm-vton-training-and-testing-implementation
+2. https://stable-diffusion-art.com/change-clothes-ai/
