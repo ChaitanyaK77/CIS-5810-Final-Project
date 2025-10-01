@@ -14,3 +14,4 @@ Developing Virtual Try On Network
 2. https://huggingface.co/spaces/yisol/IDM-VTON
 3. https://www.kaggle.com/code/aryandasdomainer/idm-vton-with-training-model
 4. https://www.kaggle.com/code/mohitgupta12/idm-vton-training-and-testing-implementation (important)
+5. https://www.kaggle.com/datasets/aryandas2021/viton-hd-idm/code
