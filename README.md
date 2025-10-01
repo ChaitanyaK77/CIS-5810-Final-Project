@@ -10,4 +10,5 @@ Developing Virtual Try On Network
 2. https://stable-diffusion-art.com/change-clothes-ai/
 
 ## To implement 
-https://github.com/shionhonda/viton-gan/tree/master/viton_gan
+1. https://github.com/shionhonda/viton-gan/tree/master/viton_gan
+2. https://huggingface.co/spaces/yisol/IDM-VTON
