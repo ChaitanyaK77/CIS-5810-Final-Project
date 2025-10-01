@@ -8,7 +8,8 @@ Developing Virtual Try On Network
 ## Ideas
 1. https://www.kaggle.com/code/mohitgupta12/idm-vton-training-and-testing-implementation
 2. https://stable-diffusion-art.com/change-clothes-ai/
-
+   
 ## To implement 
 1. https://github.com/shionhonda/viton-gan/tree/master/viton_gan
 2. https://huggingface.co/spaces/yisol/IDM-VTON
+3. https://www.kaggle.com/code/aryandasdomainer/idm-vton-with-training-model
