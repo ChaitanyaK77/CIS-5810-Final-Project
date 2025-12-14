@@ -4,7 +4,7 @@ Developing Virtual Try On Network
 # Good survey and Demo project
 https://virtual-tryon.netlify.app/
 We took inspiration from this to enhance our project
-maybe to also implement real-time solution that
+
 ## Research papers used for reference
 1. https://arxiv.org/pdf/1711.08447 ("VITON: An Image-based Virtual Try-on Network")
 2. https://www.researchgate.net/publication/331681916_Toward_AI_fashion_design_An_Attribute-GAN_model_for_clothing_match
