@@ -20,3 +20,6 @@ AIM: maybe to also implement realtime solution that, a bit difficult beut we can
 3. https://www.kaggle.com/code/aryandasdomainer/idm-vton-with-training-model
 4. https://www.kaggle.com/code/mohitgupta12/idm-vton-training-and-testing-implementation (important)
 5. https://www.kaggle.com/datasets/aryandas2021/viton-hd-idm/code
+
+## To run the code
+Install all dependencies from requirements.txt and then run app.py after setting up a venv
